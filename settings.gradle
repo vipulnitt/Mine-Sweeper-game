@@ -1,0 +1,2 @@
+rootProject.name = "Mine Sweeper"
+include ':app'
